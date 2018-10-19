@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/prewriter/LaTeX2Website.svg?branch=master)](https://travis-ci.org/prewriter/LaTeX2Website)
+[![Build Status](https://travis-ci.org/prewriter/LaTeX2Website.svg?branch=master)](https://travis-ci.org/prewriter/LaTeX-Travis-Pages)
 
 You have a bunch of .tex files that you want to publish quickly and easily update website to keep up with changes in them. 
 
