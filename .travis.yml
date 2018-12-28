@@ -26,5 +26,5 @@ deploy:
   github_token: $GITHUB_TOKEN
   on:
     branch: master
-  local_dir: .
+  local_dir: texFiles/deploy
   target_branch: gh-pages
